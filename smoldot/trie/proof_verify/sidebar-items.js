@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["Error","Possible error returned by [`verify_proof`]"]],"fn":[["verify_proof","Find the storage value of the requested key (as designated by [`Config::requested_key`])."]],"struct":[["Config","Configuration to pass to [`verify_proof`]."]]});
